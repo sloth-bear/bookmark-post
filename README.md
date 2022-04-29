@@ -1,13 +1,11 @@
 # bookmark-post
 
 ## test
-[Testable Code by Jin-Wook Chung](https://jwchung.github.io/testable-code)
-
-[How to write more testable code by Jin-Wook Chung](https://jwchung.github.io/testable-code)
-
-[Test Humility by Jin-Wook Chung](https://jwchung.github.io/test-humility)
-
-[Function Root Testing by Jin-Wook Chung](https://jwchung.github.io/function-root-testing)
+[Testing, Oh my! by Jin-Wook Chung](https://jwchung.github.io/testing-oh-my)
+ 1. [Testable Code by Jin-Wook Chung](https://jwchung.github.io/testable-code)
+ 2. [How to write more testable code by Jin-Wook Chung](https://jwchung.github.io/testable-code)
+ 3. [Test Humility by Jin-Wook Chung](https://jwchung.github.io/test-humility)
+ 4. [Function Root Testing by Jin-Wook Chung](https://jwchung.github.io/function-root-testing)
 
 
 ## oop
