@@ -2,10 +2,10 @@
 
 ## test
 [Testing, Oh my! by Jin-Wook Chung](https://jwchung.github.io/testing-oh-my)
- 1. [Testable Code by Jin-Wook Chung](https://jwchung.github.io/testable-code)
- 2. [How to write more testable code by Jin-Wook Chung](https://jwchung.github.io/testable-code)
- 3. [Test Humility by Jin-Wook Chung](https://jwchung.github.io/test-humility)
- 4. [Function Root Testing by Jin-Wook Chung](https://jwchung.github.io/function-root-testing)
+ 1. [Testable Code](https://jwchung.github.io/testable-code)
+ 2. [How to write more testable code](https://jwchung.github.io/testable-code)
+ 3. [Test Humility](https://jwchung.github.io/test-humility)
+ 4. [Function Root Testing](https://jwchung.github.io/function-root-testing)
 
 
 ## oop
