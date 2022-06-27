@@ -20,6 +20,7 @@
 [Start JavaScript 30 - 공부방법 업데이트 by fistful](https://jusths.tistory.com/80?category=820699)
 
 
-## Web frontend
+## frontend web
 [Reflow 와 Repaint](https://github.com/wonism/TIL/blob/master/front-end/browser/reflow-repaint.md)
 [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
+[[Browser] Reflow와 Repaint](https://beomy.github.io/tech/browser/reflow-repaint/)
