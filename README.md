@@ -30,3 +30,8 @@
 [Chrome DevTools로 JS 메모리 누수(Memory Leak) 디버깅하기](https://blog.eunsukim.me/posts/debugging-javascript-memory-leak-with-chrome-devtools#detached_dom)
 
 [크롬 개발자 도구의 Performance 탭 다루기 - 기본편](https://codingmoondoll.tistory.com/entry/%ED%81%AC%EB%A1%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC%EC%9D%98-Performance-%ED%83%AD-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+
+
+## etc
+https://github.com/next-step/kotlin-racingcar/pull/137 
+[신입 백엔드 개발자 혼돈의 파일럿 프로젝트 돌아보기 (feat.정산플랫폼팀)](https://techblog.woowahan.com/7828/)
