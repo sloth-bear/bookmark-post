@@ -36,4 +36,8 @@
 https://github.com/next-step/kotlin-racingcar/pull/137 
 [신입 백엔드 개발자 혼돈의 파일럿 프로젝트 돌아보기 (feat.정산플랫폼팀)](https://techblog.woowahan.com/7828/)
 
-[HTTP/3는 왜 UDP를 선택한 것일까?] (https://evan-moon.github.io/2019/10/08/what-is-http3/)
+[HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+
+[웹 & 애플리케이션 서버 - Nginx 프리퀄](https://pkeu.notion.site/pkeu/Nginx-ab4282c71ccb4efaaaadf840deb8c06a)
+
+[Nginx Server Configs](https://github.com/h5bp/server-configs-nginx)
