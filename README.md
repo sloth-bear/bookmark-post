@@ -41,3 +41,8 @@ https://github.com/next-step/kotlin-racingcar/pull/137
 [웹 & 애플리케이션 서버 - Nginx 프리퀄](https://pkeu.notion.site/pkeu/Nginx-ab4282c71ccb4efaaaadf840deb8c06a)
 
 [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx)
+
+[병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](https://techblog.woowahan.com/2644/)
+
+[아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698/)
+
