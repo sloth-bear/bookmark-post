@@ -1,5 +1,9 @@
 # bookmark-post
 
+## computer science
+[TeachYourselfCS-KR](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
+
+
 ## test
 [Testing, Oh my! by Jin-Wook Chung](https://jwchung.github.io/testing-oh-my)
  1. [Testable Code](https://jwchung.github.io/testable-code)
