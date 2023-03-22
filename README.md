@@ -56,3 +56,5 @@ https://github.com/next-step/kotlin-racingcar/pull/137
 
 [Deep dive into How Web Browsers work](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)
 
+[Advice for Junior Developers](https://dev.to/jeroendedauw/advice-for-junior-developers-30am)
+
